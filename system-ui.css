@@ -1,4 +1,4 @@
 @font-face {
-    font-family: system-;
-    src: local(".SFNSText"), local(".LucidaGrandeUI"), local("Segoe UI"), local("Ubuntu"), local("Roboto-Regular"), local("DroidSans"), local("Tahoma");
+    font-family: system-ui;
+    src: local(".SFNSText"), local(".HelveticaNeueDeskInterface-Regular"), local(".LucidaGrandeUI"), local("Segoe UI"), local("Ubuntu"), local("Roboto-Regular"), local("DroidSans"), local("Tahoma");
 }

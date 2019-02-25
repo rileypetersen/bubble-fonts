@@ -44,14 +44,14 @@
 }
 
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI Regular';
   font-style:  normal;
   font-weight: 400;
   src: url("Inter-UI-Regular.woff2") format("woff2"),
        url("Inter-UI-Regular.woff") format("woff");
 }
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI Italic';
   font-style:  italic;
   font-weight: 400;
   src: url("Inter-UI-Italic.woff2") format("woff2"),
@@ -59,14 +59,14 @@
 }
 
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI Medium';
   font-style:  normal;
   font-weight: 500;
   src: url("Inter-UI-Medium.woff2") format("woff2"),
        url("Inter-UI-Medium.woff") format("woff");
 }
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI Medium Italic';
   font-style:  italic;
   font-weight: 500;
   src: url("Inter-UI-MediumItalic.woff2") format("woff2"),
@@ -74,14 +74,14 @@
 }
 
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI SemiBold';
   font-style:  normal;
   font-weight: 600;
   src: url("Inter-UI-SemiBold.woff2") format("woff2"),
        url("Inter-UI-SemiBold.woff") format("woff");
 }
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI SemiBold Italic';
   font-style:  italic;
   font-weight: 600;
   src: url("Inter-UI-SemiBoldItalic.woff2") format("woff2"),
@@ -89,14 +89,14 @@
 }
 
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI Bold';
   font-style:  normal;
   font-weight: 700;
   src: url("Inter-UI-Bold.woff2") format("woff2"),
        url("Inter-UI-Bold.woff") format("woff");
 }
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI Bold Italic';
   font-style:  italic;
   font-weight: 700;
   src: url("Inter-UI-BoldItalic.woff2") format("woff2"),
@@ -104,7 +104,7 @@
 }
 
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI ExtraBold';
   font-style:  normal;
   font-weight: 800;
   src: url("Inter-UI-ExtraBold.woff2") format("woff2"),
@@ -126,7 +126,7 @@
        url("Inter-UI-Black.woff") format("woff");
 }
 @font-face {
-  font-family: 'Inter UI';
+  font-family: 'Inter UI Black Italic';
   font-style:  italic;
   font-weight: 900;
   src: url("Inter-UI-BlackItalic.woff2") format("woff2"),
